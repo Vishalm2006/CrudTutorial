@@ -1,6 +1,5 @@
 # CrudTutorial
 
-This is an crud project using .net mvc
-it has pagination and tabular view
+This is my first repo..
 
 Author : Vishal Kamire
